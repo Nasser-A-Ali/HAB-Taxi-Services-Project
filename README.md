@@ -3,7 +3,7 @@ Created as a final group project for the first semester's "Python Programming" c
 
 <hr>
 <p align="center">
-![hab_taxi_services](https://github.com/user-attachments/assets/00ae5de9-c65f-4e53-82cd-ea14821fefbe)
+<img width="266" alt="HAB Taxi Services - Program Menu Preview" src="https://github.com/user-attachments/assets/00ae5de9-c65f-4e53-82cd-ea14821fefbe">
 </p>
 
 <p align="center">
