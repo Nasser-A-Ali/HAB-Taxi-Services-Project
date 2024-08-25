@@ -1,0 +1,7 @@
+driver number,insurance number,first name,last name,address,city,province,phone number,license number,insurance company,has own car,balance
+1916,25904,Harry,Mackie,93 Sunderland Dr,Hamilton,ON,9053245436,H72445367667363,TD Insurance,Y,543.34
+1917,24386,Archie,Mackie,14 Hummingbird Ave,Hamilton,ON,9058432352,A97164431957329,RBC Insurance,Y,40.00
+1918,15323,Brian,Mackie,43 Main St,Hamilton,ON,2894650953,B45186114438946,Aviva Insurance,N,0.00
+1919,27405,Spencer,McNeil,194 Hidden Hills Dr,Scarborough,ON,6474367832,M91237673635743,Johnson Insurance,Y,380.23
+1920,26593,Emma,Williams,67 Rose Path Ave,Toronto,ON,4162356932,A95569440918632,TD Insurance,N,134.32
+1921,23945,Michael,Hebert,126 Onyx St.,Mississauga,ON,4164532345,P89034664136856,Aviva Insurance,Y,40.00

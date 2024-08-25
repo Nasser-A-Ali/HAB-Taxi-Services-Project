@@ -1,0 +1,11 @@
+Transaction ID,Transaction Date,Transaction Description,Driver Number,Transaction Amount,Transaction HST,Transaction Total
+102,2023-07-12,Taxi Car Rental,1920,45.00,6.75,51.75
+075,2023-09-05,Gas Surcharge,1918,80.00,12.00,92.00
+118,2023-10-19,Vehicle Maintenance,1916,65.00,9.75,74.75
+033,2023-12-03,License Renewal,1917,35.00,5.25,40.25
+091,2024-01-08,Insurance Fee,1919,55.00,8.25,63.25
+125,2024-02-14,Cleaning Fee,1921,50.00,7.50,57.50
+014,2024-03-20,License Renewal,1920,35.00,5.25,40.25
+109,2024-04-25,Taxi Car Rental,1918,45.00,6.75,51.75
+088,2024-05-30,Administrative Fee,1916,90.00,13.50,103.50
+041,2024-06-10,Taxi Car Rental,1917,45.00,6.75,51.752
